@@ -1,0 +1,7 @@
+## Interface: 30400
+## Title: Clique_Tooltips
+## Author: MrPlasticJesus
+## Dependencies: Clique
+## Version: 1.0.0
+
+Clique_Tooltips.lua
